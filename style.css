@@ -1,0 +1,43 @@
+@import url('https://fonts.googleapis.com/css?family=Alexandria');
+
+* {
+    font-family: 'Alexandria'; 
+    src: url('https://fonts.googleapis.com/css?family=Alexandria') format('Alexandria');
+}
+
+
+body {
+    background-color: #ff8832;
+}
+
+#header {
+    font-size: 70px;
+    color: #2d2d2d;
+    margin-left: 29%;
+}
+
+.buttons {
+    margin-left: 11%;
+    margin-top: 5%;
+}
+.button {
+    margin: 20px;
+    width: 200px;
+    height: 100px;
+    justify-content: center;
+    align-items: center;
+    font-size: 30px;
+    background-color: #2d2d2d;
+    color: #ffffff;
+    border: none;
+    border-radius: 20px;
+    cursor: pointer;
+}
+
+#time {
+    margin-left: 33%;
+    margin-top: 5%;
+    font-size: 120px;
+    color:#2d2d2d;
+}
+
